@@ -85,6 +85,98 @@ table {
   box-sizing: border-box;
 }
 
+html {
+
+}
+
+	body {
+
+	}
+
+
+	/*  ****** header ****** */
+	header {
+
+	}
+
+		#status-bar {}
+
+				#left-section {}
+
+						#reception {
+
+						}
+
+								.r-bars {
+
+								}
+
+						#carrier {
+
+						}
+
+								#carrier h1 {
+
+								}
+
+						#connection {
+
+						}
+
+						#insert-connection {
+
+						}
+
+				#middle-section {}
+
+						#time {
+
+						}
+
+
+
+				#right-section {}
+
+						#battery-container {
+
+						}
+
+								#battery-body {
+
+								}
+
+								#battery-head {
+
+								}
+
+						#charge {
+
+						}
+
+
+
+
+
+
+	/*  ****** app-container ****** */
+
+#app-container {
+
+}
+
+		.app-row {}
+
+					.app-icon {}
+
+
+
+
+
+	/*  ****** footer ****** */
+
+	footer {}
+
+
 
 
 
