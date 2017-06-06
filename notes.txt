@@ -1,0 +1,14 @@
+
+
+June/ 3/ 2017 9:15PM
+
+***** LOG *******
+
+
+
+center and properly align css background image
+get footer to stay at the bottom
+get web page to display properly on mobile, tablet, and Desktop
+add the appropiate images for each field
+set battery-bars to display none when webpage displays properly on all screens.
+set reception bars to backgroud-colors to display none. But keep border displayed
